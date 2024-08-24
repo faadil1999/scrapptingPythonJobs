@@ -1,4 +1,3 @@
-# scrapptingPythonJobs
 # Welcome to the Jungle Scraper
 
 Ce projet est un programme en Python qui permet de scraper le site [Welcome to the Jungle](https://www.welcometothejungle.com/) afin de collecter des données sur les offres d'emploi. Le programme génère un fichier CSV contenant des informations essentielles telles que les intitulés de postes, les villes où se trouvent les emplois, les catégories de métier, et les salaires proposés.
